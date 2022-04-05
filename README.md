@@ -10,11 +10,11 @@
 * Ambiente de desenvolvimento Visual Studio Code
 ## Alterações
 
-* Acrescentado a frase "Você é um impostor!"
 * Adicionado novos tripulantes de animação
 * Tempo de animação
 * Mudança de cores
 * Aumento de tamanho dos tripulantes
+* Acrescentado a frase "Você é um impostor!"
 * Velocidade
 
 <span align="center">
